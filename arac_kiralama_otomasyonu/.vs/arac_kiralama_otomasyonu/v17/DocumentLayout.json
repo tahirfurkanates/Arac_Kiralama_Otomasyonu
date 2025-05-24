@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|c:\\users\\tahir\\onedrive\\masa\u00FCst\u00FC\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\islemyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\islemyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\iarayuz4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\iarayuz4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\rezervasyonhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\rezervasyonhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\iarayuz3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\iarayuz3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\iarayuz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\iarayuz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\iarayuz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85BA2C3-0125-438C-9743-01658470A51B}|arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu.csproj|solutionrelative:arac_kiralama_otomasyonu\\iarayuz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Program.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:15:26.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Musteri.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\Musteri.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Musteri.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\Musteri.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA/wBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:14:08.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusteriIslem.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\MusteriIslem.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\MusteriIslem.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\MusteriIslem.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\MusteriIslem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:15:06.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Personel.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\Personel.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Personel.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:15:16.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Kullanici.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\Kullanici.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:50.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IslemYardimcisi.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IslemYardimcisi.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\IslemYardimcisi.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IslemYardimcisi.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\IslemYardimcisi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:28.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArayuz4.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz4.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\IArayuz4.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz4.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\IArayuz4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:19.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RezervasyonHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\RezervasyonHesaplayici.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\RezervasyonHesaplayici.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\RezervasyonHesaplayici.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\RezervasyonHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:15:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\SqlBaglanti.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\SqlBaglanti.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\SqlBaglanti.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\SqlBaglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:15:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\FormMusteri.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\FormMusteri.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\FormMusteri.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\FormMusteri.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:05:47.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMusteri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\FormMusteri.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\FormMusteri.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\FormMusteri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\FormMusteri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:05:45.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IArayuz3.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz3.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\IArayuz3.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz3.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\IArayuz3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:18.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IArayuz2.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz2.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\IArayuz2.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz2.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\IArayuz2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:18.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IArayuz1.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz1.cs",
+              "RelativeDocumentMoniker": "arac_kiralama_otomasyonu\\IArayuz1.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Masa\u00FCst\u00FC\\Arac_Kiralama_Otomasyonu\\arac_kiralama_otomasyonu\\arac_kiralama_otomasyonu\\IArayuz1.cs",
+              "RelativeToolTip": "arac_kiralama_otomasyonu\\IArayuz1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:17.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
